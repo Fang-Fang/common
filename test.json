@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "test",
+      "origin": "www.abc.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "www.baidu.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
