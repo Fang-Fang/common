@@ -60,18 +60,6 @@
       "enable": true,
       "process": "",
       "_originRe": {}
-    },
-    {
-      "description": "test",
-      "origin": "www.abc.com",
-      "exclude": "",
-      "methods": [],
-      "types": [],
-      "target": "www.baidu.com",
-      "example": "",
-      "enable": true,
-      "process": "",
-      "_originRe": {}
     }
   ]
 }
