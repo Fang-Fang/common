@@ -1,0 +1,65 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "nd1:19888",
+      "origin": "nd1:19888",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "yarn_his.100.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "nd1:50070",
+      "origin": "nd1:50070",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "hdfs.100.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "nd2:50070",
+      "origin": "nd2:50070",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "hdfs2.100.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "nd2:8088",
+      "origin": "nd2:8088",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "yarn2.100.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "nd1:8088",
+      "origin": "nd1:8088",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "yarn.100.com",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
